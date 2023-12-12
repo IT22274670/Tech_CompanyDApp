@@ -9,6 +9,7 @@ HR Manager
 1.	Add new departments and designations 
 2.	Add new Employees and allocate them to available departments and designations
 3.	Search Employee details based on department, designations, name, EPF number etc.
-4.	Create a new account (HR Assistant) 	
+4.	Create a new account (HR Assistant)
+    
 HR Assistant
 1.	Search Employee details based on department, name, EPF number etc.

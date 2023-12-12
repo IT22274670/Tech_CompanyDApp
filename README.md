@@ -1,6 +1,6 @@
-#this is a desktop application built by java language and netbeans ide for a university assignment.
+#this is a repo of a desktop application built by java language and netbeans ide for a university assignment.
 
-Scenario and the Task
+#Scenario and the Task
 
 “The Tech Company” is currently handling employee details manually. They want to automate the process so that HR manager and the Assistant can manage employee details easily. They have different departments (IT, Design, Business Development, Marketing, finances etc) with differ type of designation (Software Enginee, System Analys, Project Lead, Program Manager etc)
 
